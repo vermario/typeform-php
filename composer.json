@@ -1,10 +1,10 @@
 {
-    "name": "sdhacks/typeform-php",
+    "name": "vermario/typeform-php",
     "description": "A library for the Typeform API",
     "keywords": [
         "typeform-php"
     ],
-    "homepage": "https://github.com/sdhacks/typeform-php",
+    "homepage": "https://github.com/vermario/typeform-php",
     "license": "MIT",
     "authors": [
         {
@@ -12,6 +12,12 @@
             "email": "joseph@sdhacks.io",
             "homepage": "http://josephle.me",
             "role": "Developer"
+        },
+        {
+            "name": "Mario Vercellotti",
+            "email": "mario.vercellotti@gmail.com",
+            "homepage": "",
+            "role": "Developer, forked initial"
         }
     ],
     "require": {
